@@ -133,3 +133,5 @@ This project is aimed at anyone who wants to improve their Valorant game through
 ---
 
 Made with ❤️ for the Valorant community.
+
+For Riot: 4af2652a-0780-455d-b92b-a9e2de639c48
